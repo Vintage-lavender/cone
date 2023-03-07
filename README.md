@@ -1,4 +1,4 @@
 # 스파르타 코딩 클럽 <인생사진 쏙쏙 코딩네컷>
-실습 결과물
+실습 결과물: https://vintage-lavender.github.io/cone/
 * 자취로망 중 하나가 인생네컷 포토 방명록을 만드는 것이라 강의 수강 후 실습 결과물을 깃허브에 올려두었습니다.
-https://vintage-lavender.github.io/cone/
+
